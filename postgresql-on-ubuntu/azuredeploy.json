@@ -6,6 +6,7 @@
       "type": "string",
       "allowedValues": [
         "West US",
+        "Central US",
         "East US",
         "East Asia",
         "Southeast Asia",
